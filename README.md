@@ -1,5 +1,5 @@
 This project is a Retrieval-Augmented Generation (RAG) web application designed to turn static PDF documents into interactive knowledge bases. 
-It allows users to upload a file and ask natural language questions, which the system answers by "reading" the document in real-time.
+It allows users to upload a file and ask natural language questions, which the system answers by reading the document in real-time.
 
 The application is built using a modern AI stack that includes:
 •	Backend Framework: LangChain for orchestrating the document loading, text splitting, and retrieval chain.
